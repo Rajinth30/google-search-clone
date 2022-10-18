@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+The project's hosted url is => https://google-search-raj.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
