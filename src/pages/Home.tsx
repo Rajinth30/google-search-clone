@@ -30,7 +30,7 @@ const Home = () => {
           <p className="link">Gmail</p>
           <p className="link">Images</p>
           <ViewGridIcon className="h-10 w-10 rounded-full hover:bg-gray-100 cursor-pointer p-2" />
-          <Avatar url="https://media-exp1.licdn.com/dms/image/C5603AQFUpKR9T4bS_w/profile-displayphoto-shrink_800_800/0/1638437809510?e=2147483647&v=beta&t=S8zhWCNSuhYsqPimigW9LFB6QKADucoQunrwQ6SqWgs" />
+          <Avatar url="https://c4.wallpaperflare.com/wallpaper/16/671/726/lionel-messi-football-barcelona-hd-wallpaper-preview.jpg" />
         </div>
       </header>
 
