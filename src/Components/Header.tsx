@@ -51,7 +51,7 @@ const Header: FC<Props> = ({ selected }) => {
           <SearchIcon className="h-6 text-blue-500 hidden sm:inline-flex cursor-pointer" />
         </form>
         <Avatar
-          url="https://media-exp1.licdn.com/dms/image/C5603AQFUpKR9T4bS_w/profile-displayphoto-shrink_800_800/0/1638437809510?e=2147483647&v=beta&t=S8zhWCNSuhYsqPimigW9LFB6QKADucoQunrwQ6SqWgs"
+          url="https://c4.wallpaperflare.com/wallpaper/16/671/726/lionel-messi-football-barcelona-hd-wallpaper-preview.jpg"
           className="ml-auto"
         />
       </div>
